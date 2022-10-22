@@ -55,7 +55,10 @@ Please follow the link for the [original data and corresponding ](https://www.ka
 * seaborn&matplotlib for data visualization
 * sklearn for modeling and predictions
 
-** Files in this repository: **
+**Files in this repository:**
 
 * readme.md
 * How_Hot_Can_EV_Motors_Get.ipynb
+
+**Blog:**
+* You can see the blog post of the study by following this link.
