@@ -61,4 +61,4 @@ Please follow the link for the [original data and corresponding ](https://www.ka
 * How_Hot_Can_EV_Motors_Get.ipynb
 
 **Blog:**
-* You can see the blog post of the study by following this link.
+* You can see the blog post of the study by following [this link](https://towardsdatascience.com/how-hot-can-ev-motors-get-6894b2e1ff2).
